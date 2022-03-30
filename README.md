@@ -4,6 +4,10 @@ NTL is a simple Website CMS Scanning Tool Create For Fun....
 
 ```bash
 git clone https://github.com/MohammadUmarJaved/NTL.git
+```
+```bash
 cd NTL
+```
+```bash
 pip3 install -r requirements.txt
 ```
